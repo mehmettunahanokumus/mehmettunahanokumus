@@ -4,9 +4,8 @@ While I was taking courses about data processıng and programming I noticed that
 Data Science and Python Programming. I share my projects and exercises repositories on this account.
 - 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence and Deep Learning. 
 - 🌱 I’m currently learning Data Science and Python programming.
-- 📫 How to reach me 
-ttunahaokumus2399@gmail.com
-tunahanmehmet23@outlook.com
+- 📫 How to reach me
+mehmettunahanokumus@gmail.com
 https://www.linkedin.com/in/mehmettunahanokumus/
 <!---
 mehmettunahanokumus/mehmettunahanokumus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
