@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @mehmettunahanokumus
-I study Geophysical Engineering at Istanbul Technical University. I am trying to develop myself on different branches such as Data Science and Machine Learning.
-While I was taking courses about data processıng and programming I noticed that I should work on data more. And I started to take courses about
-Data Science and Python Programming. I share my projects and exercises repositories on this account.
-- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence and Deep Learning. 
-- 🌱 I’m currently learning Data Science and Python programming.
+🚀 Hey, I’m Mehmet Tunahan Okumus (Tuna)
+
+I work in Cybersecurity / Information Security, focusing on strengthening my technical depth while building toward industry-standard certifications. My interests sit at the intersection of security and intelligent systems — everything from AI and ML to automation, cloud security, and defensive engineering.
+
+I originally studied Geophysical Engineering at Istanbul Technical University, but shifted gears after realizing I was far more energized by data-driven problem-solving and security work. Since then, I’ve been sharpening my skills across:
+	•	Information Security & Cybersecurity Fundamentals
+	•	Python and security-focused tooling
+	•	AI/ML concepts, models, and practical applications
+	•	Cloud security foundations (Microsoft security stack in particular)
+
+👀 Interests
+
+Cybersecurity · Information Security · AI · Generative AI · Automation · Tech that actually solves problems
+
+  
 - 📫 How to reach me
 mehmettunahanokumus@gmail.com
 https://www.linkedin.com/in/mehmettunahanokumus/
