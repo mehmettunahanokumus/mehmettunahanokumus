@@ -14,6 +14,7 @@ Cybersecurity · Information Security · AI · Generative AI · Automation · Te
 
   
 - 📫 How to reach me
+tunahanokumus.com.tr
 mehmettunahanokumus@gmail.com
 https://www.linkedin.com/in/mehmettunahanokumus/
 <!---
